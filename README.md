@@ -7,6 +7,8 @@ It is designed to explain the concepts behind a **mobile number tracker**, how t
 Live reference tool:
 👉 [https://www.mobilenumbertracker.in](https://www.mobilenumbertracker.in)
 
+<img width="400" src="https://raw.githubusercontent.com/reverse-phone-lookup/reverse-phone-lookup-tool/refs/heads/main/mobile-number-tracker.jpg">
+
 ---
 
 ## 🚀 What is Reverse Phone Lookup?
