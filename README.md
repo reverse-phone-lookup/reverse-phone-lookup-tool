@@ -1,6 +1,3 @@
-# ✅ FILE 1: `README.md`
-
-```markdown
 # Reverse Phone Lookup Tool – Track Mobile Number Location & Details
 
 This project is an educational **reverse phone lookup tool** that demonstrates how to **track mobile number location** and access **mobile number details** using public and legally available data sources.
@@ -39,8 +36,7 @@ This repository is created to:
 
 ✅ Demonstrate how a **reverse phone lookup tool** works  
 ✅ Explain how to **track mobile number location** in an approximate way  
-✅ Show sample output for **mobile number details**  
-✅ Provide example code for learning & testing  
+✅ Show sample output for **mobile number details** ✅ Provide example code for learning & testing  
 ✅ Help developers understand telecom data formatting  
 
 It is intended strictly for:
@@ -146,24 +142,23 @@ This repository contains **safe example files only**.
 ## 📁 Repository Structure
 
 ```
-
 reverse-phone-lookup-tool
 │
 ├── README.md
 ├── example-code
-│   └── demo.html
+│   └── demo.html
 ├── docs
-│   └── how-reverse-lookup-works.md
+│   └── how-reverse-lookup-works.md
 ├── data
-│   └── sample-output.json
+│   └── sample-output.json
 └── LICENSE
-
 ```
 
 ---
 
 ## ⭐ Related Keywords
 
+```
 - Reverse phone lookup
 - Track mobile number location
 - Mobile number tracker
@@ -172,6 +167,7 @@ reverse-phone-lookup-tool
 - Unknown number search
 - Telecom data
 - Caller identification
+```
 
 ---
 
@@ -189,13 +185,11 @@ If you’d like to support or improve this project:
 ## 🔗 Official Reference
 
 For a real working **mobile number tracker** and **reverse phone lookup** example, visit:
-
-👉 https://www.mobilenumbertracker.in
-```
+👉 [https://www.mobilenumbertracker.in](https://www.mobilenumbertracker.in)
 
 ---
 
-# ✅ FILE 2: `example-code/demo.html`
+## example-code/demo.html (Executable Demo)
 
 ```html
 <!DOCTYPE html>
@@ -223,6 +217,7 @@ For a real working **mobile number tracker** and **reverse phone lookup** exampl
         return;
       }
 
+      // This output is hardcoded demo data and does not perform a real lookup.
       const output = {
         number: number,
         country: "India",
@@ -239,16 +234,11 @@ For a real working **mobile number tracker** and **reverse phone lookup** exampl
 </html>
 ```
 
-✅ 100% safe
-✅ No illegal function
-✅ Only demo data
-
 ---
 
-# ✅ FILE 3: `docs/how-reverse-lookup-works.md`
+## docs/how-reverse-lookup-works.md (Explanation)
 
-```markdown
-# How Reverse Phone Lookup Works (Simple Explanation)
+### How Reverse Phone Lookup Works (Simple Explanation)
 
 A reverse phone lookup system uses the structure of a phone number to understand:
 
@@ -272,11 +262,10 @@ This method is commonly used in:
 - Telecommunication systems
 - CRM tools
 - Security & verification platforms
-```
 
 ---
 
-# ✅ FILE 4: `data/sample-output.json`
+### data/sample-output.json (The Sample Data)
 
 ```json
 {
@@ -289,11 +278,3 @@ This method is commonly used in:
 }
 ```
 
----
-
-# ✅ FILE 5: `LICENSE`
-
-Use **MIT License** (safe & standard)
-Just pick it when creating the repo.
-
----
